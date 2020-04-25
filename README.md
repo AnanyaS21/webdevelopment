@@ -29,7 +29,10 @@
   <style>
   
   .ex-box{
-  box-sizing: border-box;
+  border: 3px solid blue;
+  background-color: #eee;
+  height:200px;
+  width:200px;
   display:flex;
   align-items: center;
   justify-content: center;
