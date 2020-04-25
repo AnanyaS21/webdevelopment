@@ -48,16 +48,6 @@
   <div class="ex-box"> BOX 1</div>
   <div class="ex-box"> BOX 2</div>
   
-  <style>
-   .example{
-  border: 3px solid pink;
-  padding:5px;
-  margin: 25px;
-  background-color: white;
-  }
-  </style>
-  <div class="example"> Content written inside box </div>
-  
    <style>
   .box-1{
   border: 1px solid black;
