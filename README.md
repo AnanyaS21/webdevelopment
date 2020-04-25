@@ -55,12 +55,12 @@
     flex-wrap: wrap;
   }
  
-  .column{
-    flex-direction: column-reverse;
+  .reverse{
+    flex-direction: row-reverse;
   }
   
   </style>
-  <div class="flex-container column">
+  <div class="flex-container reverse">
     <div class="box-1"> 1</div>
     <div class="box-2"> 2</div>
     <div class="box-3"> 3</div>
