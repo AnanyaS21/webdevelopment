@@ -27,10 +27,9 @@
   </ol>
    
   <style>
+  
   .ex-box{
-  border: 3px solid black;
-  height: 200px;
-  width: 200px;
+  box-sizing: border-box;
   display:flex;
   align-items: center;
   justify-content: center;
