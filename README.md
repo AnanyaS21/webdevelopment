@@ -40,7 +40,7 @@
   font-size: 30px;
   }
   .ex-box:last-of-type{
-  clear: right;
+  clear: left;
   }
   </style>
   <div class="ex-box"> BOX 1</div>
