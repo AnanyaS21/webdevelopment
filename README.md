@@ -54,4 +54,4 @@
   background-color: white;
   }
   </style>
-  <div class="example"> Content </div>
+  <div class="example"> Content written inside box </div>
