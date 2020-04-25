@@ -44,7 +44,7 @@
   }
   </style>
   <div class="ex-box"> BOX 1</div>
-  <div class="ex.box"> BOX 2</div>
+  <div class="ex-box"> BOX 2</div>
   
   <style>
    .example{
@@ -54,4 +54,4 @@
   background-color: white;
   }
   </style>
-  <dicV class="example> Content </div>
+  <div class="example"> Content </div>
