@@ -48,13 +48,26 @@
   height: 200px;
   width:100px;
   }
-  .floated .box{
-    float: left;
+   .flex-container{
+    display:flex;
+    width:100px;
+    border: 5px dotted pink;
+    flex-wrap: wrap;
+  }
+ 
+  .reverse{
+    .reverse {
+    flex-direction: row-reverse;
+  }
   }
   </style>
-  <div class="floated">
+  <div class="flex-container reverse">
     <div class="box-1"> 1</div>
     <div class="box-2"> 2</div>
     <div class="box-3"> 3</div>
+  
+
+
+   
   
   
