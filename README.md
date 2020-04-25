@@ -25,7 +25,7 @@
    <li class="first-child-ex"> Second </li>
    <li class="first-child-ex">Third</li>
   </ol>
-  
+   
   <style>
   .ex-box{
   border: 3px solid black;
@@ -45,3 +45,13 @@
   </style>
   <div class="ex-box"> BOX 1</div>
   <div class="ex.box"> BOX 2</div>
+  
+  <style>
+   .example{
+  border: 3px solid pink;
+  padding:5px;
+  margin: 25px;
+  background-color: white;
+  }
+  </style>
+  <dicV class="example> Content </div>
